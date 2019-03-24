@@ -1,0 +1,13 @@
+A message
+
+This message is used to demonstrate the new String methods in java:
+
+  * isBlank()
+  * lines()
+  * strip(), stripLeading(), stripTrailing()
+  * repeat()
+
+It also have go at the new Files methods
+
+  * readString()
+  * writeString()
