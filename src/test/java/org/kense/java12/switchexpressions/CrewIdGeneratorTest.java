@@ -1,4 +1,4 @@
-package org.kense.switchexpressions;
+package org.kense.java12.switchexpressions;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

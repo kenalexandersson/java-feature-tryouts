@@ -1,4 +1,4 @@
-package org.kense.switchexpressions;
+package org.kense.java12.switchexpressions;
 
 import java.util.List;
 import java.util.stream.Collectors;

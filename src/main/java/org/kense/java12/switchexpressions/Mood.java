@@ -1,4 +1,4 @@
-package org.kense.switchexpressions;
+package org.kense.java12.switchexpressions;
 
 public enum Mood {
 
